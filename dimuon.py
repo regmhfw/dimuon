@@ -1,3 +1,3 @@
-import ROOT import TFile
+from ROOT import TFile
 
-f = TFile('testdata/events.root")
+f = TFile("testdata/events.root")
